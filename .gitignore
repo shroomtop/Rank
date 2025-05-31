@@ -1,0 +1,20 @@
+# HTML/Static‑site artifacts
+dist/
+build/
+*.log
+*.cache
+*.tmp
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# System
+Thumbs.db
+
+# Data backups
+*.json.bak
